@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Routing;
 
-namespace Todo.UI
+namespace Todo.Server
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
